@@ -2,8 +2,8 @@
   "detector": "venue_date",
   "movie": "Spider-Man: Brand New Day",
   "requested_date": "20260801",
-  "venue_code": "ACON"
-  "venue_label": "AGS Cinemas OMR:Navlur",
+  "venue_code": "INTO"
+  venue_label": "INOX: The Marina Mall, OMR",
   "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/20260801",
   "min_references": 10
 }
